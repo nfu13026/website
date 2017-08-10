@@ -1,0 +1,12 @@
+.style-nav ul{
+	list-style-type: none;
+	float: right;
+}
+
+.style-nav li{
+	display: inline;
+}
+
+.style-nav ul li a{
+	text-decoration: none;
+}
