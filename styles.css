@@ -3,24 +3,28 @@ html * {
 	padding: 0;
 	margin: 0;
 	box-sizing: border-box;
-	font-family: Lato;
+	font-family: Arial;
 }
 
 .style-nav ul{
 	list-style-type: none;
-	padding: 18px;
+	padding: 8px;
 }
 
 .style-nav ul li a{
 	text-decoration: none;
 	color: #47525E;
-	padding: 8px;
 	text-align: center;
 	display: block;
+	font-size: 18px;
+	padding: 16px;
 }
 
-li a:hover {
-    background-color: #f5f5dc;
+.style-nav li a.active{
+	background-color: #E5E5AB;
+}
+.style-nav li a:hover:not(.active){
+	background-color: #f5f5dc;
 }
 
 @media screen and (min-width: 768px){ /* Mobile Device Screen*/
@@ -35,9 +39,10 @@ li a:hover {
 		}
 }
 
-@media (min-width: 1024px){
+@media (min-width: 1024px){ /* Mobile Device Screen*/
 	.style-nav ul li{
 		display: inline-block;
+		padding: 8px;
 	}
 	.style-nav ul{
 		text-align: right;
