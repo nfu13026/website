@@ -6,9 +6,25 @@ html * {
 	font-family: Arial;
 }
 
+header{
+	padding-right: 200px;
+	padding-left: 200px;
+}
+
+body{
+	width: auto;
+    height: auto;
+}
+
+.entire{
+	padding-right: 200px;
+	padding-left: 200px;
+}
+
 .style-nav ul{
 	list-style-type: none;
 	padding: 8px;
+	#border: 1px solid #555;
 }
 
 .style-nav ul li a{
@@ -16,15 +32,20 @@ html * {
 	color: #47525E;
 	text-align: center;
 	display: block;
-	font-size: 18px;
+	font-size: 17px;
 	padding: 16px;
 }
 
 .style-nav li a.active{
-	background-color: #E5E5AB;
+	background-color:#fcfca6;
+	padding: auto;
 }
 .style-nav li a:hover:not(.active){
 	background-color: #f5f5dc;
+}
+
+.content{
+	padding: 8px;
 }
 
 @media screen and (min-width: 768px){ /* Mobile Device Screen*/
