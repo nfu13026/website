@@ -9,6 +9,10 @@ html * {
 body{
 	width: auto;
 	height: auto;
+	background-image: url(signinbackground.svg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100%;
 }
 
 .style-nav ul{
