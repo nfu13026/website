@@ -9,6 +9,9 @@ html * {
 body{
 	width: auto;
     height: auto;
+	background-image: url(signinbackground.svg);
+	background-size: 100%;
+	background-repeat: no-repeat;
 }
 
 header{
