@@ -10,10 +10,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg8"
    version="1.1"
-   viewBox="0 0 361.42084 203.2"
-   height="768"
+   viewBox="0 0 361.42084 215.63526"
+   height="815"
    width="1366"
-   sodipodi:docname="signinbackground.svg"
+   sodipodi:docname="signinbackground2.svg"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -45,12 +45,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(0,-93.800015)"
+     transform="matrix(1,0,0,0.95303549,-0.10515937,-65.040905)"
      id="layer1">
     <g
        transform="matrix(0.99926115,0,0,0.99792416,-0.3773739,0.34974467)"
@@ -84,19 +84,19 @@
       </g>
     </g>
     <flowRoot
-       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;letter-spacing:0px;word-spacing:0px;"
+       style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot4634"
        xml:space="preserve"><flowRegion
-         style="font-size:24px;"
+         style="font-size:24px"
          id="flowRegion4636"><rect
-           style="font-size:24px;"
+           style="font-size:24px"
            y="325.2323"
            x="489.60309"
            height="48.118847"
            width="364.29654"
            id="rect4638" /></flowRegion><flowPara
          id="flowPara4640" /></flowRoot>    <flowRoot
-       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:18.66666667px;line-height:1.25;letter-spacing:0px;word-spacing:0px"
+       style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot4642"
        xml:space="preserve"><flowRegion
          id="flowRegion4644"><rect
@@ -107,5 +107,13 @@
            id="rect4646" /></flowRegion><flowPara
          id="flowPara4648" /></flowRoot>  </g>
   <g
-     id="layer2" />
+     id="layer2"
+     transform="translate(0,12.435412)" />
+  <rect
+     id="rect3739"
+     width="361.23819"
+     height="24.290712"
+     x="-0.10517059"
+     y="-0.22601908"
+     style="fill:#e5e9f2;fill-opacity:1;stroke-width:0.44645008" />
 </svg>
