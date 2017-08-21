@@ -8,21 +8,12 @@ html * {
 
 body{
 	width: auto;
-    height: auto;
-	background-image: url(signinbackground.svg);
-	background-size: 100%;
-	background-repeat: no-repeat;
-}
-
-header{
-	padding-right: 200px;
-	padding-left: 200px;
+	height: auto;
 }
 
 .style-nav ul{
 	list-style-type: none;
 	padding: 8px;
-	#border: 1px solid #555;
 }
 
 .style-nav ul li a{

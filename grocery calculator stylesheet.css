@@ -8,18 +8,13 @@ html * {
 
 body{
 	width: auto;
-    height: auto;
+	height: auto;
 }
 
-header{
-	padding-right: 200px;
-	padding-left: 200px;
-}
 
 .style-nav ul{
 	list-style-type: none;
 	padding: 8px;
-	#border: 1px solid #555;
 }
 
 .style-nav ul li a{
