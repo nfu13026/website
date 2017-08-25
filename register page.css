@@ -9,16 +9,10 @@ html * {
 body{
 	width: auto;
 	height: auto;
-	background-image: url(signinbackground2.svg);
+	#background-image: url(signinbackground2.svg);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 100%;
-}
-
-#login-prompt{
-	background-color: red;
-	display: inline-block;
-	
 }
 
 .style-nav ul{
