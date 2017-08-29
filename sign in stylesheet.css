@@ -16,9 +16,8 @@ body{
 }
 
 #login-prompt{
-	background-color: red;
+	background-color: #6e7177;
 	display: inline-block;
-	
 }
 
 .style-nav ul{
