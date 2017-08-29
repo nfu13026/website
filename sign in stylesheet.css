@@ -11,8 +11,7 @@ body{
 	height: auto;
 	background-image: url(signinbackground2.svg);
 	background-repeat: no-repeat;
-	background-position: center;
-	background-size: 100%;
+	background-size: cover;
 }
 
 #login-prompt{

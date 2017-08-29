@@ -10,9 +10,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg8"
    version="1.1"
-   viewBox="0 0 361.42084 215.63526"
-   height="815"
-   width="1366"
+   viewBox="0 0 361.34636 193.94366"
+   height="733.01593"
+   width="1365.7185"
    sodipodi:docname="signinbackground2.svg"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
   <sodipodi:namedview
@@ -24,16 +24,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1191"
-     inkscape:window-height="831"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
      id="namedview3737"
      showgrid="false"
      inkscape:zoom="0.55403646"
-     inkscape:cx="719.62199"
-     inkscape:cy="391.57614"
-     inkscape:window-x="488"
-     inkscape:window-y="130"
-     inkscape:window-maximized="0"
+     inkscape:cx="426.62535"
+     inkscape:cy="400.06905"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg8" />
   <defs
      id="defs2" />
@@ -45,12 +45,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     transform="matrix(1,0,0,0.95303549,-0.10515937,-65.040905)"
+     transform="matrix(1,0,0,0.95303549,-0.0243681,-88.979584)"
      id="layer1">
     <g
        transform="matrix(0.99926115,0,0,0.99792416,-0.3773739,0.34974467)"
@@ -108,12 +108,5 @@
          id="flowPara4648" /></flowRoot>  </g>
   <g
      id="layer2"
-     transform="translate(0,12.435412)" />
-  <rect
-     id="rect3739"
-     width="361.23819"
-     height="24.290712"
-     x="-0.10517059"
-     y="-0.22601908"
-     style="fill:#e5e9f2;fill-opacity:1;stroke-width:0.44645008" />
+     transform="translate(0.08079126,-11.503267)" />
 </svg>
