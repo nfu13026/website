@@ -14,9 +14,16 @@ body{
 	background-size: cover;
 }
 
-#login-prompt{
+.login-prompt form{
 	background-color: #6e7177;
-	display: inline-block;
+	display: block;
+	text-align: center;
+	width: 15%;
+	position: absolute;
+	left: 45%;
+	padding: 15px;
+	border: 2px solid;
+	border-radius: 10px;
 }
 
 .style-nav ul{
