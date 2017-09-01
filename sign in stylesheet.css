@@ -14,8 +14,19 @@ body{
 	background-size: cover;
 }
 
+.login-prompt input[type=text]{
+	width:100%;
+	border-radius: 4px;
+}
+
+.login-prompt input[type=submit]{
+	background-color: #839af7;
+	width: 100%;
+	border-radius: 4px;
+}
+
 .login-prompt form{
-	background-color: #6e7177;
+	background-color: #b7b8bc;
 	display: block;
 	text-align: center;
 	width: 15%;
