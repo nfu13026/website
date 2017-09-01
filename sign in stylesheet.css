@@ -26,6 +26,23 @@ body{
 	border-radius: 10px;
 }
 
+.login-prompt a{
+	padding-top: 5px;
+	font-size: 12px;
+	text-decoration: none;
+	display: block;
+}
+
+.login-prompt h1{
+	font-size: 20px;
+}
+
+.login-prompt ul li{
+	text-decoration: none;
+	display: inline-block;
+	padding: 8px;
+}
+
 .style-nav ul{
 	list-style-type: none;
 	padding: 8px;
