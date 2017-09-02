@@ -9,14 +9,59 @@ html * {
 body{
 	width: auto;
 	height: auto;
-	#background-image: url(signinbackground2.svg);
+	background-image: url(signinbackground2.svg);
 	background-repeat: no-repeat;
-	background-position: center;
-	background-size: 100%;
+	background-size: cover;
+}
+
+.login-prompt form h1{
+	padding: 10px;
+	color: #1B72A1;
+}
+
+.login-prompt form h2{
+	font-size: 20px;
+	color: #1B72A1;
+}
+
+.login-prompt input[type=text]{
+	width:100%;
+	border: 1px solid;
+	border-radius: 4px;
+}
+
+.login-prompt input[type=submit]{
+	background-color: #839af7;
+	width: 100%;
+	border-radius: 4px;
+}
+
+.login-prompt form{
+	display: block;
+	text-align: center;
+	width: 25%;
+	position: absolute;
+	left: 40%;
+	padding: 15px;
+	border: 2px solid;
+	border-radius: 10px;
+}
+
+.login-prompt a{
+	padding-top: 5px;
+	font-size: 12px;
+	text-decoration: none;
+	display: block;
 }
 
 .style-nav ul{
 	list-style-type: none;
+	padding: 8px;
+}
+
+.login-prompt ul li{
+	text-decoration: none;
+	display: inline-block;
 	padding: 8px;
 }
 

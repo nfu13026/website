@@ -16,6 +16,7 @@ body{
 
 .login-prompt input[type=text]{
 	width:100%;
+	border: 1px solid;
 	border-radius: 4px;
 }
 
@@ -26,12 +27,11 @@ body{
 }
 
 .login-prompt form{
-	background-color: #b7b8bc;
 	display: block;
 	text-align: center;
-	width: 15%;
+	width: 25%;
 	position: absolute;
-	left: 45%;
+	left: 40%;
 	padding: 15px;
 	border: 2px solid;
 	border-radius: 10px;
@@ -44,8 +44,20 @@ body{
 	display: block;
 }
 
-.login-prompt h1{
+.login-prompt form h1{
+	padding: 10px;
+	color: #1B72A1;
+}
+
+
+.login-prompt form h2{
 	font-size: 20px;
+	color: #1B72A1;
+}
+
+.login-prompt li a {
+	font-size: 15px;
+	padding: 8px;
 }
 
 .login-prompt ul li{
