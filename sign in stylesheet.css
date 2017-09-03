@@ -20,10 +20,20 @@ body{
 	border-radius: 4px;
 }
 
+.login-prompt input[type=password]{
+	width:100%;
+	border: 1px solid;
+	border-radius: 4px;
+}
+
 .login-prompt input[type=submit]{
 	background-color: #839af7;
 	width: 100%;
 	border-radius: 4px;
+}
+
+.login-prompt{
+	padding-top: 50px;
 }
 
 .login-prompt form{
